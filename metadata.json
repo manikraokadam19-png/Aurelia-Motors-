@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Motors | Luxury Automotive",
+  "description": "Where Luxury Meets Motion. India's premier luxury automobile sanctuary featuring curated flagship sedans, grand tourers, and bespoke concierge services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
